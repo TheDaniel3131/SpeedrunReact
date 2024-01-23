@@ -4,7 +4,7 @@ function TimeManagement(){
 
     return(
         <ul>
-            <li>create plans for everyday</li>
+            <li>create a plan for everyday</li>
             <li>{tm1.toLowerCase()}</li>
             <li>{tm2.toLowerCase()}</li>
         </ul>
