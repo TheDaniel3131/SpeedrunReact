@@ -1,7 +1,7 @@
 function Header() {
     return(
         <header>
-            <h1>Zer0 T1m3 W4ste</h1>
+            <h1>Zer0 T1m3 W4ste!</h1>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
